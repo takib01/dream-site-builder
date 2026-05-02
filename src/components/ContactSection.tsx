@@ -4,8 +4,8 @@ import { GithubIcon, LinkedinIcon } from "./SocialIcons";
 
 export default function ContactSection() {
   return (
-    <section id="contact" className="px-6 py-24">
-      <div className="mx-auto max-w-7xl">
+    <section id="contact" className="py-16">
+      <div>
         <motion.h2
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}

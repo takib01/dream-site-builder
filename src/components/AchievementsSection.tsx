@@ -47,8 +47,8 @@ const experience = [
 
 export default function AchievementsSection() {
   return (
-    <section id="achievements" className="px-6 py-24">
-      <div className="mx-auto max-w-7xl">
+    <section id="achievements" className="py-16">
+      <div>
         <motion.h2
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
