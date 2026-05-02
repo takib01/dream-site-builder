@@ -72,7 +72,7 @@ export default function ProjectsSection() {
                     rel="noopener noreferrer"
                     className="flex h-9 w-9 items-center justify-center rounded-full border border-border text-muted-foreground transition-colors hover:border-primary hover:text-primary"
                   >
-                    <Github className="h-4 w-4" />
+                    <GithubIcon className="h-4 w-4" />
                   </a>
                 </div>
                 <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{project.description}</p>

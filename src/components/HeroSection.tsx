@@ -10,8 +10,8 @@ const stats = [
 ];
 
 const socials = [
-  { icon: Github, href: "https://github.com/thetakibkhan", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/takib-khan", label: "LinkedIn" },
+  { icon: GithubIcon, href: "https://github.com/thetakibkhan", label: "GitHub" },
+  { icon: LinkedinIcon, href: "https://linkedin.com/in/takib-khan", label: "LinkedIn" },
   { icon: Mail, href: "mailto:takib.khan.01@gmail.com", label: "Email" },
 ];
 

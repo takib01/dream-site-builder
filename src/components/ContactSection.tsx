@@ -53,7 +53,7 @@ export default function ContactSection() {
                 rel="noopener noreferrer"
                 className="flex h-11 w-11 items-center justify-center rounded-full border border-border text-muted-foreground transition-colors hover:border-primary hover:text-primary"
               >
-                <Github className="h-5 w-5" />
+                <GithubIcon className="h-5 w-5" />
               </a>
               <a
                 href="https://linkedin.com/in/takib-khan"
@@ -61,7 +61,7 @@ export default function ContactSection() {
                 rel="noopener noreferrer"
                 className="flex h-11 w-11 items-center justify-center rounded-full border border-border text-muted-foreground transition-colors hover:border-primary hover:text-primary"
               >
-                <Linkedin className="h-5 w-5" />
+                <LinkedinIcon className="h-5 w-5" />
               </a>
             </div>
           </div>
