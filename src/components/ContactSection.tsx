@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { Mail, MapPin, Phone, Github, Linkedin } from "lucide-react";
+import { Mail, MapPin, Phone } from "lucide-react";
+import { GithubIcon, LinkedinIcon } from "./SocialIcons";
 
 export default function ContactSection() {
   return (

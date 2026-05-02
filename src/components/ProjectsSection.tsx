@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ExternalLink, Github } from "lucide-react";
+import { GithubIcon } from "./SocialIcons";
 import ayojonImg from "@/assets/project-ayojon.jpg";
 import taskorbitImg from "@/assets/project-taskorbit.jpg";
 
