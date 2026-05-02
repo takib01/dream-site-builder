@@ -29,8 +29,8 @@ const skillGroups = [
 
 export default function SkillsSection() {
   return (
-    <section id="skills" className="px-6 py-24">
-      <div className="mx-auto max-w-7xl">
+    <section id="skills" className="py-16">
+      <div>
         <motion.h2
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
